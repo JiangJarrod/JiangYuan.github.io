@@ -1,6 +1,8 @@
 ---
 title: "Performance and optimization of bio-oil/Buton rock asphalt composite modified asphalt"
 collection: publications
+permalink: /publication/2010-10-01-paper-title-number-2
+# excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2020-12-20
 venue: 'December 20'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
