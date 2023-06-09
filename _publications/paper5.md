@@ -1,15 +1,15 @@
 ---
-title: "Investigation on strength characteristics of bio-asphalt mixtures based on the time–temperature equivalence principle"
+title: "Elaboration of a damage monitor and assessment approach for in-situ asphalt pavement layer using portable seismic property analyzer (PSPA)"
 collection: publications
 permalink: /publication/paper5
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2021-11-22
-venue: 'November 20'
+date: 2022-10-1
+venue: 'October 1'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Peng X , Yuan J , Wu Z ,et al. Investigation on strength characteristics of bio-asphalt mixtures based on the time-temperature equivalence principle[J]. Construction and Building Materials, 2021(Nov.22):309. DOI:10.1016/j.conbuildmat.2021.125132.'
+citation: 'Sun L , Yuan J , Ding T ,et al. Elaboration of a damage monitor and assessment approach for in-situ asphalt pavement layer using portable seismic property analyzer (PSPA)[J]. NDT & E International: Independent Nondestructive Testing and Evaluation, 2022:131.'
 ---
 
 
-[Download paper here](10.1016/j.conbuildmat.2021.125132)
+[Download paper here](https://www.nstl.gov.cn/paper_detail.html?id=33de20246bd8b4dc297ee509f522aada)
 
-Recommended citation: Peng X , Yuan J , Wu Z ,et al. Investigation on strength characteristics of bio-asphalt mixtures based on the time-temperature equivalence principle[J]. Construction and Building Materials, 2021(Nov.22):309. DOI:10.1016/j.conbuildmat.2021.125132.
+Recommended citation: Sun L , Yuan J , Ding T ,et al. Elaboration of a damage monitor and assessment approach for in-situ asphalt pavement layer using portable seismic property analyzer (PSPA)[J]. NDT & E International: Independent Nondestructive Testing and Evaluation, 2022:131.
