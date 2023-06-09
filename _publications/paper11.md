@@ -1,15 +1,15 @@
 ---
-title: "Investigation on strength characteristics of bio-asphalt mixtures based on the time–temperature equivalence principle"
+title: "Performance Check of Asphalt Mixture Layer Based on Yield Criterion and Normalized Fatigue Equation"
 collection: publications
 permalink: /publication/paper11
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2021-11-22
-venue: 'November 20'
+date: 2022-05-22
+venue: 'May 22'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Peng X , Yuan J , Wu Z ,et al. Investigation on strength characteristics of bio-asphalt mixtures based on the time-temperature equivalence principle[J]. Construction and Building Materials, 2021(Nov.22):309. DOI:10.1016/j.conbuildmat.2021.125132.'
+citation: 'Peng X, Lv S, Huang T, Zheng C, Jiang M, Yuan J, Hu L. Performance Check of Asphalt Mixture Layer Based on Yield Criterion and Normalized Fatigue Equation[J]. Journal of Materials in Civil Engineering, 2022:34(5). DOI:10.1061/(ASCE)MT.1943-5533.0004205.'
 ---
 
 
-[Download paper here](10.1016/j.conbuildmat.2021.125132)
+[Download paper here](10.1061/(ASCE)MT.1943-5533.0004205)
 
-Recommended citation: Peng X , Yuan J , Wu Z ,et al. Investigation on strength characteristics of bio-asphalt mixtures based on the time-temperature equivalence principle[J]. Construction and Building Materials, 2021(Nov.22):309. DOI:10.1016/j.conbuildmat.2021.125132.
+Recommended citation: Peng X, Lv S, Huang T, Zheng C, Jiang M, Yuan J, Hu L. Performance Check of Asphalt Mixture Layer Based on Yield Criterion and Normalized Fatigue Equation[J]. Journal of Materials in Civil Engineering, 2022:34(5). DOI:10.1061/(ASCE)MT.1943-5533.0004205.
