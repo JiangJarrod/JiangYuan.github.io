@@ -1,15 +1,15 @@
 ---
-title: "Investigation on strength characteristics of bio-asphalt mixtures based on the time–temperature equivalence principle"
+title: "Application of Miller yield criterion to develop a unified fatigue law of asphalt mixture for different loading modes"
 collection: publications
 permalink: /publication/paper7
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2021-11-22
-venue: 'November 20'
+date: 2023-04-19
+venue: 'April 19'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Peng X , Yuan J , Wu Z ,et al. Investigation on strength characteristics of bio-asphalt mixtures based on the time-temperature equivalence principle[J]. Construction and Building Materials, 2021(Nov.22):309. DOI:10.1016/j.conbuildmat.2021.125132.'
+citation: 'Yuan J , Lv S, Cheng H ,et al. Application of Miller yield criterion to develop a unified fatigue law of asphalt mixture for different loading modes[J]. Fatigue & Fracture of Engineering Materials & Structures, 2023. DOI:10.1111/FFE.14022.'
 ---
 
 
-[Download paper here](10.1016/j.conbuildmat.2021.125132)
+[Download paper here](https://doi.org/10.1111/ffe.14022)
 
-Recommended citation: Peng X , Yuan J , Wu Z ,et al. Investigation on strength characteristics of bio-asphalt mixtures based on the time-temperature equivalence principle[J]. Construction and Building Materials, 2021(Nov.22):309. DOI:10.1016/j.conbuildmat.2021.125132.
+Recommended citation: Yuan J , Lv S, Cheng H ,et al. Application of Miller yield criterion to develop a unified fatigue law of asphalt mixture for different loading modes[J]. Fatigue & Fracture of Engineering Materials & Structures, 2023. DOI:10.1111/FFE.14022.
