@@ -6,7 +6,7 @@ permalink: /publication/paper1
 date: 2020-12-20
 venue: 'December 20'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Lv S , Yuan J , Peng X ,et al.Performance and optimization of bio-oil/Buton rock asphalt composite modified asphalt[J]. Construction and Building Materials, 2020, 264:120235. DOI:10.1016/j.conbuildmat.2020.120235.'
+citation: 'Lv S , Yuan J , Peng X ,et al. Performance and optimization of bio-oil/Buton rock asphalt composite modified asphalt[J]. Construction and Building Materials, 2020, 264:120235. DOI:10.1016/j.conbuildmat.2020.120235.'
 ---
 
 
