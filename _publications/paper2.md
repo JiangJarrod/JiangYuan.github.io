@@ -11,4 +11,4 @@ citation: 'Lv S , Yuan J , Liu C,et al. Investigation of the fatigue modulus dec
 
 [Download paper here](10.1016/j.conbuildmat.2019.07.003)
 
-Recommended citation: Lv S , Yuan J , Liu C,et al. Investigation of the fatigue modulus decay in cement stabilized base material by considering the difference between compressive and tensile modulus[J]. Construction and Building Materials, 2019, 223:491-502. DOI:10.1016/j.conbuildmat.2019.07.003.
+Recommended citation: Lv S , Yuan J , Liu C, et al. Investigation of the fatigue modulus decay in cement stabilized base material by considering the difference between compressive and tensile modulus[J]. Construction and Building Materials, 2019, 223:491-502. DOI:10.1016/j.conbuildmat.2019.07.003.
