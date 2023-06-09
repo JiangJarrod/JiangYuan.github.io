@@ -1,15 +1,15 @@
 ---
-title: "Performance Check of Asphalt Mixture Layer Based on Yield Criterion and Normalized Fatigue Equation"
+title: "Fatigue resistance design of rubberized asphalt mixture pavement under three-dimensional stress state"
 collection: publications
 permalink: /publication/paper13
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2022-05-01
-venue: 'May 1'
+date: 2021-11-08
+venue: 'November 8'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Peng X, Lv S, Huang T, Zheng C, Jiang M, Yuan J, Hu L. Performance Check of Asphalt Mixture Layer Based on Yield Criterion and Normalized Fatigue Equation[J]. Journal of Materials in Civil Engineering, 2022:34(5). DOI:10.1061/(ASCE)MT.1943-5533.0004205.'
+citation: 'Lv, S, Tan, L, Peng, X, Hu, L, Liu, H, & Yuan, J, et al. Fatigue resistance design of rubberized asphalt mixture pavement under three-dimensional stress state[J]. Construction and Building Materials, 2021:307. DOI:10.1016/j.conbuildmat.2021.125138.'
 ---
 
 
-[Download paper here](10.1061/(ASCE)MT.1943-5533.0004205)
+[Download paper here](10.1016/j.conbuildmat.2021.125138)
 
-Recommended citation: Peng X, Lv S, Huang T, Zheng C, Jiang M, Yuan J, Hu L. Performance Check of Asphalt Mixture Layer Based on Yield Criterion and Normalized Fatigue Equation[J]. Journal of Materials in Civil Engineering, 2022:34(5). DOI:10.1061/(ASCE)MT.1943-5533.0004205.
+Recommended citation: PLv, S, Tan, L, Peng, X, Hu, L, Liu, H, & Yuan, J, et al. Fatigue resistance design of rubberized asphalt mixture pavement under three-dimensional stress state[J]. Construction and Building Materials, 2021:307. DOI:10.1016/j.conbuildmat.2021.125138.
