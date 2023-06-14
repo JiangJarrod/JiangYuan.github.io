@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Changsha, Changsha University of Science and Technology, 2018
-* M.S. in Changsha, Changsha University of Science and Technology, 2021
-* Ph.D in Shanghai, Tongji University, now
+* B.S. in Changsha, Changsha University of Science and Technology
+* M.S. in Changsha, Changsha University of Science and Technology
+* Ph.D in Shanghai, Tongji University
 
   
 Research field
