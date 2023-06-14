@@ -16,11 +16,11 @@ Education
 * Ph.D in Shanghai, Tongji University, now
 
   
-Skills
+Research field
 ======
-* ABAQUS
-* MATLAB
-* ORIGIN
+* Asphalt mixture performance
+* Pavement design
+* Numerical simulation
 
 Publications
 ======
