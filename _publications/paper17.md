@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive properties evaluation of modified bio-asphalt mixture based on comparison matrix"
 collection: publications
-permalink: /publication/paper1
+permalink: /publication/paper17
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023-12-27
 venue: 'December 20'
